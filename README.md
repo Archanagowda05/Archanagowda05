@@ -4,23 +4,23 @@
 
 <div align="center">
 
-<!-- Animated wave header -->
-<!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a6eb5,100:58A6FF&height=250&section=header&text=Hey!%20I%27m%20Archana%20S&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=CS%20%26%20Design%20Engineering%20%7C%20AI%20Engineer&descAlignY=60&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a6eb5,100:58A6FF&height=200&section=header&text=Hey!%20I%27m%20Archana%20S&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
 
-<!-- Typing SVG -->
 <a href="https://archana-portfolio-theta.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=20&amp;pause=1200&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=680&amp;height=55&amp;lines=NASA+Space+Apps+2025+Global+Nominee+%F0%9F%9A%80;Full+Stack+Dev+%7C+AI+Engineer+%7C+RPA+Wizard+%F0%9F%A4%96;Figma+by+day%2C+Python+by+night%2C+chai+24%2F7+%E2%98%95;My+code+works.+I+don%27t+know+why.+Won%27t+touch+it.+%F0%9F%99%8F;Currently+arguing+with+a+bug+that+isn%27t+my+fault+%F0%9F%90%9B;Dark+mode+is+not+a+setting.+It%27s+a+lifestyle." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=AI+Engineer+%F0%9F%A4%96;Software+Developer+%F0%9F%92%BB;Automation+Enthusiast+%E2%9A%A1;Turning+ideas+into+working+projects+%F0%9F%9A%80" alt="Animated typing introduction" />
 </a>
 
-<br/><br/>
+<p>🎓 <b>Computer Science & Design Engineering | Final Year</b></p>
 
-<!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=Archanagowda05&amp;label=Profile+Views&amp;color=1a6eb5&amp;style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Archanagowda05?label=Followers&amp;style=for-the-badge&amp;color=58A6FF&amp;labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/NASA%20Space%20Apps-2025%20Global%20Nominee-red?style=for-the-badge&amp;logo=nasa&amp;logoColor=white" />
+<p>🚀 <b>NASA Space Apps Challenge 2025 — Global Nominee</b></p>
+
+<a href="https://archana-portfolio-theta.vercel.app/">
+  <img src="https://img.shields.io/badge/Explore_My_Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" />
+</a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3460,100:58A6FF&height=3&section=header" width="80%" alt="" />
 
 </div>
 
