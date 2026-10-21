@@ -3,10 +3,6 @@
 <h1 align="center">👋 Hey, I'm Archana S!<br></h1>
 <h5 align="center">Don't mind the chaos</h5>
 
-<p align="center">
-  <b>AI Engineer | Software Developer | Automation Enthusiast</b>
-</p>
-
 <div align="center">
   
 <a href="https://archana-portfolio-theta.vercel.app/">
@@ -116,18 +112,6 @@ open_to:
 
 ---
 
-## 🎵 Spotify — Currently Vibing To
-
-<div align="center">
-
-<!--
-  🎵 SETUP (2 mins):
-  1. Go to → https://spotify-github-profile.kittinanx.com/
-  2. Login with Spotify → Authorize
-  3. Copy your personal widget URL → replace the src below
--->
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/v1/spot?uid=YOUR-SPOTIFY-USER-ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&bar_color=58A6FF&bar_color_cover=true)](https://open.spotify.com)
 
 *🎧 If it shows "offline" — I'm either debugging or crying. Same energy.*
 
