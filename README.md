@@ -4,8 +4,14 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a6eb5,100:58A6FF&height=200&section=header&text=Hey!%20I%27m%20Archana%20S&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
+<h1 align="center">👋 Hey, I'm Archana S!</h1>
 
+<p align="center">
+  <b>AI Engineer | Software Developer | Automation Enthusiast</b>
+</p>
+
+<div align="center">
+  
 <a href="https://archana-portfolio-theta.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=AI+Engineer+%F0%9F%A4%96;Software+Developer+%F0%9F%92%BB;Automation+Enthusiast+%E2%9A%A1;Turning+ideas+into+working+projects+%F0%9F%9A%80" alt="Animated typing introduction" />
 </a>
