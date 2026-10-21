@@ -1,10 +1,7 @@
-════════════════════════════════════════════════════════════ 
-         Hi, I'm Archana. Don't mind the chaos.            
-════════════════════════════════════════════════════════════ 
-
 <div align="center">
 
-<h1 align="center">👋 Hey, I'm Archana S!</h1>
+<h1 align="center">👋 Hey, I'm Archana S!<br></h1>
+<h5 align="center">Don't mind the chaos</h5>
 
 <p align="center">
   <b>AI Engineer | Software Developer | Automation Enthusiast</b>
