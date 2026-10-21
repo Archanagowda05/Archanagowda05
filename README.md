@@ -5,7 +5,8 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f3460,50:1a6eb5,100:58A6FF&amp;height=200&amp;section=header&amp;text=Hey!%20I'm%20Archana%20S%20%F0%9F%91%8B&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=CS%20%26%20Design%20Eng%20%7C%20NASA%20Space%20Apps%20Global%20Nominee%20%F0%9F%9A%80&amp;descAlignY=58&amp;descColor=c9d1d9&amp;descSize=16" />
+<!-- Animated wave header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a6eb5,100:58A6FF&height=250&section=header&text=Hey!%20I%27m%20Archana%20S&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=CS%20%26%20Design%20Engineering%20%7C%20AI%20Engineer&descAlignY=60&descSize=16" />
 
 <!-- Typing SVG -->
 <a href="https://archana-portfolio-theta.vercel.app/">
