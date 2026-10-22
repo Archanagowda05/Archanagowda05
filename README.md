@@ -207,14 +207,6 @@ open_to:
 
 ---
 
-## 💬 Today's Dev Wisdom
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight&amp;border=true" />
-</div>
-
----
-
 ## 🤝 Find Me Online
 
 <div align="center">
