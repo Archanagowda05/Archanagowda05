@@ -22,7 +22,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3460,100:58A6FF&height=3&section=header" width="80%" alt="" />
 
 </div>
-
+<div align= right>
 ---
 
 ## 🧬 `cat archana.yaml`
@@ -80,6 +80,7 @@ open_to:
 ```
 
 ---
+</div>
 
 ## 🛠️ Tech Arsenal
 
@@ -102,7 +103,7 @@ open_to:
 
 **🎨 Design**
 
-<img src="https://skillicons.dev/icons?i=figma,xd&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 
 **🗄️ Tools & Infra**
 
@@ -116,24 +117,6 @@ open_to:
 *🎧 If it shows "offline" — I'm either debugging or crying. Same energy.*
 
 </div>
-
----
-
-## ⏱️ WakaTime — Tracking My Procrastination
-
-<div align="center">
-
-<!--
-  ⏱️ SETUP (5 mins):
-  1. Sign up at → https://wakatime.com
-  2. Install WakaTime extension in VS Code
-  3. Make your stats PUBLIC in settings
-  4. Replace YOUR-WAKATIME-USERNAME below
--->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR-WAKATIME-USERNAME&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58A6FF&amp;text_color=c9d1d9&amp;layout=compact&amp;langs_count=6" />
-
-*📊 These hours = genuine work. The 3am commits are... also work.*
 
 </div>
 
