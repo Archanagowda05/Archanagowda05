@@ -22,7 +22,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3460,100:58A6FF&height=3&section=header" width="80%" alt="" />
 
 </div>
-<div align= right>
+<div align= left>
 ---
 
 ## 🧬 `cat archana.yaml`
@@ -140,32 +140,48 @@ open_to:
 
 ## 🏆 Trophy Case
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Archanagowda05&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=8&amp;margin-w=4" />
-</div>
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Archanagowda05&theme=tokyonight&no-frame=true&margin-w=8"
+    alt="GitHub Trophies"
+    width="100%"
+  />
+</p>
 
 ---
 
 ## 📈 Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Archanagowda05&amp;bg_color=0d1117&amp;color=58A6FF&amp;line=1a6eb5&amp;point=58A6FF&amp;area=true&amp;hide_border=true&amp;area_color=1a6eb5&amp;custom_title=Archana's%20Contribution%20Timeline%20(aka%20Caffeine%20Consumption%20Chart)" />
-</div>
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Archanagowda05&theme=tokyo-night&hide_border=true"
+    alt="Contribution Activity Graph"
+    width="100%"
+  />
+</p>
 
 ---
 
 ## 🐍 Contributions Getting Devoured
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Archanagowda05/Archanagowda05/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Archanagowda05/Archanagowda05/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Archanagowda05/Archanagowda05/output/github-snake-dark.svg" />
-  </picture>
+<h2 align="center">🐍 Contributions Getting Devoured</h2>
 
-  *🐍 Every green square = a commit. Every eaten square = my sleep schedule.*
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Archanagowda05/Archanagowda05/output/github-snake.svg"
+    alt="GitHub contribution snake"
+    width="100%"
+  />
+</p>
 
-<details>
+<p align="center">
+  Every green square = a commit. Every eaten square = my sleep schedule.
+</p>
+
 <summary><b>🔧 Set up the Snake — 5 min!</b></summary>
 
 > Create `.github/workflows/snake.yml` and paste:
