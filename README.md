@@ -138,30 +138,25 @@ open_to:
 
 ---
 
-## 🏆 Trophy Case
-
-<h2 align="center">🏆 GitHub Trophies</h2>
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Archanagowda05&theme=tokyonight&no-frame=true&margin-w=8"
-    alt="GitHub Trophies"
-    width="100%"
-  />
+  <a href="https://github.com/Archanagowda05?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My_Repositories-58A6FF?style=for-the-badge&logo=github" alt="Explore my repositories" />
+  </a>
+  <a href="https://github.com/Archanagowda05?tab=stars">
+    <img src="https://img.shields.io/badge/View-My_Stars-FFD700?style=for-the-badge&logo=github" alt="View my stars" />
+  </a>
 </p>
 
 ---
 
-## 📈 Activity Graph
-
-<h2 align="center">📈 Contribution Activity</h2>
+## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Archanagowda05&theme=tokyo-night&hide_border=true"
-    alt="Contribution Activity Graph"
-    width="100%"
-  />
+  <a href="https://github.com/Archanagowda05">
+    View my contribution history on GitHub →
+  </a>
 </p>
 
 ---
